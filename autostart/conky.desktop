@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Plank-XFCE
+Categories=Utility;
+Type=Application
+Exec=start-conky
+Icon=plank
+Terminal=false
+NoDisplay=false
+OnlyShowIn=XFCE

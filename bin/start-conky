@@ -1,0 +1,11 @@
+#!/bin/sh
+# xfce conky starter
+
+if [ ! -d $HOME/.conky ]; then
+    mkdir -p $HOME/.conky
+    cp -rf /usr/share/siduction-settings-conky/profiles/conky/* $HOME/.conky/
+fi
+pkill -9 -x conky
+sleep 10s
+cd "$HOME/.conky/4 & 2 core blue"
+conky -c "$HOME/.conky/4 & 2 core blue/conkyrc2core" &

@@ -1,0 +1,3 @@
+autostart etc/xdg/
+bin       usr
+profiles  usr/share/siduction-settings-conky/

@@ -1,0 +1,15 @@
+Source: siduction-settings-conky
+Section: x11
+Priority: optional
+Maintainer: Torsten Wohlfarth <towo@siduction.org>
+Build-Depends:
+ debhelper (>= 9),
+Standards-Version: 3.9.5
+Homepage: http://chili.siduction.org/wiki/siduction-settings-conky/
+
+Package: siduction-settings-conky
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends},
+ conky-std
+Description: settings, themes and autostart for conky
+ Contains settings, themes and autostart for conky 

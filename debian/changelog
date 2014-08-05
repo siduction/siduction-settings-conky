@@ -1,0 +1,32 @@
+siduction-settings-conky (0.5) unstable; urgency=medium
+
+  * changed colours
+  * fix the lua-script for the clock
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 05 Aug 2014 21:36:23 +0200
+
+siduction-settings-conky (0.4) unstable; urgency=medium
+
+  * fixed some settings in conkyrc for the default used theme (2 core blue)
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 05 Aug 2014 18:58:01 +0200
+
+siduction-settings-conky (0.3) unstable; urgency=medium
+
+  * Add some themes
+  * changed used theme
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 05 Aug 2014 18:44:52 +0200
+
+siduction-settings-conky (0.2) unstable; urgency=medium
+
+  * Change some values in conkyrc
+  * fixed lua-script
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 05 Aug 2014 17:51:52 +0200
+
+siduction-settings-conky (0.1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 05 Aug 2014 14:24:46 +0200
