@@ -1,3 +1,9 @@
+siduction-settings-conky (0.6) unstable; urgency=medium
+
+  * chanched depends conky-all, instead of conky-std
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 17 Sep 2014 00:31:29 +0200
+
 siduction-settings-conky (0.5) unstable; urgency=medium
 
   * changed colours

@@ -10,6 +10,6 @@ Homepage: http://chili.siduction.org/wiki/siduction-settings-conky/
 Package: siduction-settings-conky
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends},
- conky-std
+ conky-all
 Description: settings, themes and autostart for conky
  Contains settings, themes and autostart for conky 
