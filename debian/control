@@ -5,7 +5,7 @@ Maintainer: Torsten Wohlfarth <towo@siduction.org>
 Build-Depends:
  debhelper (>= 9),
 Standards-Version: 3.9.5
-Homepage: http://chili.siduction.org/wiki/siduction-settings-conky/
+Homepage: https://github.com/siduction/siduction-settings-conky/
 
 Package: siduction-settings-conky
 Architecture: all
